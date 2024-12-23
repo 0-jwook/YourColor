@@ -1,5 +1,5 @@
 lib
 include
 bin
-__pychche__
-pyvenv.cfggi
+__pycache__
+pyvenv.cfg
